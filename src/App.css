@@ -1,6 +1,7 @@
 .App {
   max-width: 800px;
   margin: 60px 60px 0px 60px;
+  text-transform: capitalize;
 }
 
 .container {
