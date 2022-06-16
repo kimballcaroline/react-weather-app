@@ -120,7 +120,7 @@ export default function WeatherSearch() {
       </a>{" "}
       and is&nbsp;
       <a
-        href="https://github.com/kimballcaroline/weather-app-react"
+        href="https://github.com/kimballcaroline/react-weather-app"
         target="_blank"
         rel="noopener noreferrer"
       >
